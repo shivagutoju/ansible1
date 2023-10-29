@@ -2,7 +2,7 @@
 172.35.36.96
 
 [mongodb]
-18.234.238.42
+172.31.42.158
 
 [mongodb:vars]
 MONGO_USERNAME=mongodbadmin
