@@ -1,0 +1,9 @@
+#play book is list of plays , always it should start with -
+- name: ping the node
+  host: mongodb
+  #this is the list of all task/modules/collections
+  tasks:
+  - name: pinging the server
+  #this is the map
+
+ansible.builtin.ping:
